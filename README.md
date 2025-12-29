@@ -1,5 +1,4 @@
 # 💫 About Me:
-Software Engineer & Flutter Developer
 A results-driven Software Engineer with a strong foundation in computer science and a focus on building high-performance mobile applications. I specialize in the **Flutter** ecosystem, creating scalable, user-centric solutions with clean architecture and efficient code.
 
 
