@@ -1,5 +1,5 @@
 # 💫 About Me:
-A results-driven **Software Engineer** with a strong foundation in computer science and a focus on building high-performance mobile applications. I build production-ready mobile applications with clean architecture and efficient code using **flutter** .
+A results-driven **Software Engineer** with a strong foundation in computer science and a focus on building high-performance mobile applications. I build production-ready mobile applications with clean architecture and efficient code using **Flutter** .
 <br/>
 
 
