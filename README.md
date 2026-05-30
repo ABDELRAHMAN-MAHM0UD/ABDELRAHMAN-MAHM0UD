@@ -19,20 +19,6 @@ Flutter · Dart · Firebase · Git
 
 ---
 
-## Projects
-
-### [CryptoWatch](https://github.com/ABDELRAHMAN-MAHM0UD/Crypto)
-A cryptocurrency tracker built to practice production-style Android architecture. Uses Retrofit for live API data, Dagger Hilt for DI, and Jetpack Compose for the UI — all structured across clean Domain/Data/Presentation layers.
-
-`Kotlin` `Jetpack Compose` `Hilt` `Retrofit` `Clean Architecture`
-
-### [VOE — SMS Financial Parser](https://github.com/ABDELRAHMAN-MAHM0UD/VOE)
-A personal utility that intercepts Vodafone Cash / InstaPay SMS notifications and forwards structured transaction data to a local automation pipeline. Built to explore Flutter Platform Channels and Android background services.
-
-`Flutter` `Kotlin` `Platform Channels` `BroadcastReceiver` `Foreground Services`
-
----
-
 ## Currently learning
 Deepening my Android knowledge — advanced state management, local-first architecture with Room, and integrating AI APIs into mobile apps.
 
